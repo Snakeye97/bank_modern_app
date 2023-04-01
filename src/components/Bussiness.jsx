@@ -13,7 +13,7 @@ const Bussiness = () => {
       </div>
 
       <div className={`${layout.sectionImg} flex-col`}>
-        {features.map((feature, index) => (<FeatureCard/>))}
+        {/* {features.map((feature, index) => (<FeatureCard/>))} */}
       </div>
     </section>
   )
